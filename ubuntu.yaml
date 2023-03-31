@@ -1,0 +1,14 @@
+target: ubuntu
+kernelrelease: 4.15.0-20-generic
+kernelversion: 21
+architecture: amd64
+
+modulefilepath: build/uhs_driver.tar.gz
+localkerneldir: build/kernel/
+
+output:
+  module: /tmp/uhs_driver_ubuntu_4.15.0-20-generic_21_x86_64.ko
+
+loglevel: debug
+onlinemode: false
+

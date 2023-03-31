@@ -1,0 +1,9 @@
+{{ .Desc }}
+
+{{ .Usage }}
+
+{{ .Commands }}
+
+{{ .Flags }}
+
+{{ .Info }}

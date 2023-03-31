@@ -1,0 +1,11 @@
+ERRO error validating config options               error="proxy url must start with http:// or https:// or socks5:// prefix"
+Error: exiting for validation errors
+{{ .Usage }}
+
+{{ .Commands }}
+
+{{ .Flags }}
+  -v, --version                   version for driverkit
+
+{{ .Info }}
+

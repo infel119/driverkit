@@ -1,0 +1,11 @@
+INFO specify a valid processor                     processors="[docker kubernetes kubernetes-in-cluster]"
+{{ .Desc }}
+
+{{ .Usage }}
+
+{{ .Commands }}
+
+{{ .Flags }}
+  -v, --version                   version for driverkit
+
+{{ .Info }}

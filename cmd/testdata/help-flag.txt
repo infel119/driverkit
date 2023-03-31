@@ -1,0 +1,10 @@
+{{ .Desc }}
+
+{{ .Usage }}
+
+{{ .Commands }}
+
+{{ .Flags }}
+  -v, --version                   version for driverkit
+
+{{ .Info }}

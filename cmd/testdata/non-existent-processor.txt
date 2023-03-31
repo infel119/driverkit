@@ -1,0 +1,10 @@
+Error: invalid argument "abc" for "driverkit"
+{{ .Usage }}
+
+{{ .Commands }}
+
+{{ .Flags }}
+  -v, --version                   version for driverkit
+
+{{ .Info }}
+
